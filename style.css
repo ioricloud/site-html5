@@ -1,0 +1,16 @@
+body {
+	background: #fff;
+}
+
+h1 {
+	font-size: 16px;
+	font-color: #f0f;
+	font-family: 'Verdana', 'Helvetica', 'sans-serif';
+}
+
+p {
+	font-style: normal;
+	font-color: #000;
+	font-size: 10px;
+	font-family: 'Verdana', 'Helvetica', 'sans-serif';
+}
